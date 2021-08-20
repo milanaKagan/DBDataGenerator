@@ -1,0 +1,14 @@
+{
+    "scale": {
+        "customers": 10,
+        "airlines": 10,
+        "flights_per_airline": 3
+    },
+    "db": {
+        "user": "postgres",
+        "host": "localhost",
+        "database": "pg_flights",
+        "password": "admin",
+        "port": 5432
+    }
+}

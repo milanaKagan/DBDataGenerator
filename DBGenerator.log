@@ -1,0 +1,35 @@
+{
+  level: 'info',
+  message: 'Db pg_flights was cleared',
+  timestamp: '2021-08-20T10:44:29.750Z'
+}
+{
+  level: 'info',
+  message: '243 countries inserted count',
+  timestamp: '2021-08-20T10:44:30.341Z'
+}
+{
+  level: 'info',
+  message: '10 users inserted count',
+  timestamp: '2021-08-20T10:44:30.344Z'
+}
+{
+  level: 'info',
+  message: '10 customers inserted count',
+  timestamp: '2021-08-20T10:44:30.346Z'
+}
+{
+  level: 'info',
+  message: '10 airlines inserted count',
+  timestamp: '2021-08-20T10:44:30.348Z'
+}
+{
+  level: 'info',
+  message: '23 flights inserted count',
+  timestamp: '2021-08-20T10:44:30.350Z'
+}
+{
+  level: 'info',
+  message: '10 tickets inserted count',
+  timestamp: '2021-08-20T10:44:30.351Z'
+}
