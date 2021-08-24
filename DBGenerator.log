@@ -33,3 +33,898 @@
   message: '10 tickets inserted count',
   timestamp: '2021-08-20T10:44:30.351Z'
 }
+{
+  level: 'info',
+  message: 'Db pg_flights was cleared',
+  timestamp: '2021-08-24T15:19:04.278Z'
+}
+{
+  level: 'info',
+  message: '243 countries inserted count',
+  timestamp: '2021-08-24T15:19:04.947Z'
+}
+{
+  level: 'info',
+  message: '10 users inserted count',
+  timestamp: '2021-08-24T15:19:04.948Z'
+}
+{
+  level: 'info',
+  message: '10 customers inserted count',
+  timestamp: '2021-08-24T15:19:04.949Z'
+}
+{
+  level: 'info',
+  message: '10 airlines inserted count',
+  timestamp: '2021-08-24T15:19:04.950Z'
+}
+{
+  level: 'info',
+  message: '18 flights inserted count',
+  timestamp: '2021-08-24T15:19:04.950Z'
+}
+{
+  level: 'info',
+  message: '10 tickets inserted count',
+  timestamp: '2021-08-24T15:19:04.951Z'
+}
+{
+  level: 'info',
+  message: 'Db pg_flights was cleared',
+  timestamp: '2021-08-24T15:19:38.044Z'
+}
+{
+  level: 'error',
+  message: 'Error during customer 6 insert: error: ошибка синтаксиса (примерное положение: "Abbé")',
+  timestamp: '2021-08-24T15:19:38.381Z'
+}
+{
+  level: 'error',
+  message: 'Error during user 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.384Z'
+}
+{
+  level: 'error',
+  message: 'Error during customer 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.386Z'
+}
+{
+  level: 'error',
+  message: 'Error during user 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.388Z'
+}
+{
+  level: 'error',
+  message: 'Error during customer 8 insert: error: ошибка синтаксиса (примерное положение: "Connell")',
+  timestamp: '2021-08-24T15:19:38.390Z'
+}
+{
+  level: 'error',
+  message: 'Error during user 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.391Z'
+}
+{
+  level: 'error',
+  message: 'Error during customer 9 insert: error: ошибка синтаксиса (примерное положение: "Église")',
+  timestamp: '2021-08-24T15:19:38.392Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.393Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.395Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.397Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.399Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.400Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.401Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.403Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.404Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.406Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.407Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.409Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.411Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.412Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.414Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.417Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.418Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.420Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.421Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.423Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.425Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.427Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.430Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.433Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.435Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.437Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.439Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.440Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.441Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.442Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.444Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.446Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.448Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.451Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.453Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.455Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.457Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.458Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:38.459Z'
+}
+{
+  level: 'info',
+  message: '243 countries inserted count',
+  timestamp: '2021-08-24T15:19:38.461Z'
+}
+{
+  level: 'info',
+  message: '7 users inserted count',
+  timestamp: '2021-08-24T15:19:38.462Z'
+}
+{
+  level: 'info',
+  message: '6 customers inserted count',
+  timestamp: '2021-08-24T15:19:38.462Z'
+}
+{
+  level: 'info',
+  message: '0 airlines inserted count',
+  timestamp: '2021-08-24T15:19:38.464Z'
+}
+{
+  level: 'info',
+  message: '0 flights inserted count',
+  timestamp: '2021-08-24T15:19:38.466Z'
+}
+{
+  level: 'info',
+  message: '0 tickets inserted count',
+  timestamp: '2021-08-24T15:19:38.467Z'
+}
+{
+  level: 'info',
+  message: 'Db pg_flights was cleared',
+  timestamp: '2021-08-24T15:19:51.110Z'
+}
+{
+  level: 'error',
+  message: 'Error during customer 4 insert: error: ошибка синтаксиса (примерное положение: "Abbé")',
+  timestamp: '2021-08-24T15:19:51.662Z'
+}
+{
+  level: 'error',
+  message: 'Error during user 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.665Z'
+}
+{
+  level: 'error',
+  message: 'Error during customer 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.667Z'
+}
+{
+  level: 'error',
+  message: 'Error during user 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.668Z'
+}
+{
+  level: 'error',
+  message: 'Error during customer 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.670Z'
+}
+{
+  level: 'error',
+  message: 'Error during user 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.672Z'
+}
+{
+  level: 'error',
+  message: 'Error during customer 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.674Z'
+}
+{
+  level: 'error',
+  message: 'Error during user 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.676Z'
+}
+{
+  level: 'error',
+  message: 'Error during customer 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.678Z'
+}
+{
+  level: 'error',
+  message: 'Error during user 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.681Z'
+}
+{
+  level: 'error',
+  message: 'Error during customer 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.683Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.685Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.686Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.688Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.689Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.690Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.692Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.694Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.697Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.703Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.704Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.706Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.707Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.709Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.712Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.715Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.717Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.719Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.720Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.721Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.722Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.724Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.725Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.726Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.728Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.730Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.731Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.733Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.734Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.736Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.738Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.739Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.741Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.743Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.747Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.749Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.750Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.752Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.753Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.754Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.755Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:19:51.757Z'
+}
+{
+  level: 'info',
+  message: '243 countries inserted count',
+  timestamp: '2021-08-24T15:19:51.760Z'
+}
+{
+  level: 'info',
+  message: '5 users inserted count',
+  timestamp: '2021-08-24T15:19:51.761Z'
+}
+{
+  level: 'info',
+  message: '4 customers inserted count',
+  timestamp: '2021-08-24T15:19:51.762Z'
+}
+{
+  level: 'info',
+  message: '0 airlines inserted count',
+  timestamp: '2021-08-24T15:19:51.763Z'
+}
+{
+  level: 'info',
+  message: '0 flights inserted count',
+  timestamp: '2021-08-24T15:19:51.764Z'
+}
+{
+  level: 'info',
+  message: '0 tickets inserted count',
+  timestamp: '2021-08-24T15:19:51.765Z'
+}
+{
+  level: 'info',
+  message: 'Db pg_flights was cleared',
+  timestamp: '2021-08-24T15:20:27.468Z'
+}
+{
+  level: 'error',
+  message: 'Error during customer 9 insert: error: ошибка синтаксиса (примерное положение: "Izieu")',
+  timestamp: '2021-08-24T15:20:27.867Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.872Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.874Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.875Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.877Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.879Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.880Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.883Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.885Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.887Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.888Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.891Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.894Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.896Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.899Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.901Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.902Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.904Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.905Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.909Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.912Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.914Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.916Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.918Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.920Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.921Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.922Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.924Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.926Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.927Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.928Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.930Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.936Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.940Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.943Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.953Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.955Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.957Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.959Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-08-24T15:20:27.961Z'
+}
+{
+  level: 'info',
+  message: '243 countries inserted count',
+  timestamp: '2021-08-24T15:20:27.964Z'
+}
+{
+  level: 'info',
+  message: '10 users inserted count',
+  timestamp: '2021-08-24T15:20:27.965Z'
+}
+{
+  level: 'info',
+  message: '9 customers inserted count',
+  timestamp: '2021-08-24T15:20:27.966Z'
+}
+{
+  level: 'info',
+  message: '0 airlines inserted count',
+  timestamp: '2021-08-24T15:20:27.966Z'
+}
+{
+  level: 'info',
+  message: '0 flights inserted count',
+  timestamp: '2021-08-24T15:20:27.968Z'
+}
+{
+  level: 'info',
+  message: '0 tickets inserted count',
+  timestamp: '2021-08-24T15:20:27.969Z'
+}
+{
+  level: 'info',
+  message: 'Db pg_flights was cleared',
+  timestamp: '2021-08-24T15:21:04.398Z'
+}
+{
+  level: 'info',
+  message: '243 countries inserted count',
+  timestamp: '2021-08-24T15:21:04.767Z'
+}
+{
+  level: 'info',
+  message: '10 users inserted count',
+  timestamp: '2021-08-24T15:21:04.769Z'
+}
+{
+  level: 'info',
+  message: '10 customers inserted count',
+  timestamp: '2021-08-24T15:21:04.770Z'
+}
+{
+  level: 'info',
+  message: '10 airlines inserted count',
+  timestamp: '2021-08-24T15:21:04.772Z'
+}
+{
+  level: 'info',
+  message: '15 flights inserted count',
+  timestamp: '2021-08-24T15:21:04.773Z'
+}
+{
+  level: 'info',
+  message: '10 tickets inserted count',
+  timestamp: '2021-08-24T15:21:04.774Z'
+}
+{
+  level: 'info',
+  message: 'Db pg_flights was cleared',
+  timestamp: '2021-08-24T15:22:18.047Z'
+}
+{
+  level: 'info',
+  message: '243 countries inserted count',
+  timestamp: '2021-08-24T15:22:18.512Z'
+}
+{
+  level: 'info',
+  message: '10 users inserted count',
+  timestamp: '2021-08-24T15:22:18.514Z'
+}
+{
+  level: 'info',
+  message: '10 customers inserted count',
+  timestamp: '2021-08-24T15:22:18.515Z'
+}
+{
+  level: 'info',
+  message: '10 airlines inserted count',
+  timestamp: '2021-08-24T15:22:18.516Z'
+}
+{
+  level: 'info',
+  message: '20 flights inserted count',
+  timestamp: '2021-08-24T15:22:18.517Z'
+}
+{
+  level: 'info',
+  message: '10 tickets inserted count',
+  timestamp: '2021-08-24T15:22:18.518Z'
+}
