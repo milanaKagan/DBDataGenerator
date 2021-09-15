@@ -7,7 +7,7 @@
     "db": {
         "user": "postgres",
         "host": "localhost",
-        "database": "pg_flights",
+        "database": "flights",
         "password": "admin",
         "port": 5432
     }

@@ -61,7 +61,7 @@ const insertCountries = async (client) => {
     let string_from_file = fs.readFileSync('data\\countries.json', { encoding: 'utf8', flag: 'r' });
     let data = JSON.parse(string_from_file)
     for (let i = 0; i < data.length; i++) {
-        await client.query(`select * from sp_insert_countries('${data[i].name}')`, (err) => {
+        await client.query(`select * from sp_insert_country('${data[i].name}')`, (err) => {
             if (err)
                 logger_repo.log({
                     level: 'error',
@@ -120,7 +120,7 @@ const insertAirlines = async (client) => {
     let string_from_file = fs.readFileSync('data\\airlines.json', { encoding: 'utf8', flag: 'r' });
     let data = JSON.parse(string_from_file)
     for (let i = 0; i < scale.airlines; i++) {
-        await client.query(`select * from sp_insert_airlines('${data[i].name}',${Math.floor(Math.random() * 243) + 1}, 
+        await client.query(`select * from sp_insert_airline('${data[i].name}',${Math.floor(Math.random() * 243) + 1}, 
         ${i + 1})`, (err, res) => {
             if (err)
                 logger_repo.log({
@@ -136,7 +136,7 @@ const insertAirlines = async (client) => {
 const insertFlights = async (client) => {
     for (let i = 0; i < scale.airlines; i++) {
         for (let j = 0; j < (Math.floor(Math.random() * scale.flights_per_airline) + 1); j++) {
-            await client.query(`select * from sp_insert_flights('${i + 1}','${Math.floor(Math.random() * 243) + 1}',
+            await client.query(`select * from sp_insert_flight('${i + 1}','${Math.floor(Math.random() * 243) + 1}',
             '${Math.floor(Math.random() * 243) + 1}',
             '${randomDate()}',
             '${randomDate()}',
@@ -156,7 +156,7 @@ const insertFlights = async (client) => {
 const insertTickets = async (client) => {
 
     for (let i = 0; i < scale.customers; i++) {
-        await client.query(`select * from sp_insert_tickets('${i + 1}','${i + 1}')`, (err, res) => {
+        await client.query(`select * from sp_insert_ticket('${i + 1}','${i + 1}')`, (err, res) => {
             if (err)
                 logger_repo.log({
                     level: 'error',
