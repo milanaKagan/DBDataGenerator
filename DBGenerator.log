@@ -1,2850 +1,2380 @@
 {
   level: 'info',
-  message: 'Db pg_flights was cleared',
-  timestamp: '2021-08-20T10:44:29.750Z'
+  message: 'Db flights was cleared',
+  timestamp: '2021-09-16T16:10:53.836Z'
+}
+{
+  level: 'error',
+  message: 'Error during random user axios get: ReferenceError: bcrypt is not defined',
+  timestamp: '2021-09-16T16:10:54.149Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 0 insert: error: INSERT или UPDATE в таблице "airlines" нарушает ограничение внешнего ключа "fk_user_id"',
+  timestamp: '2021-09-16T16:10:54.161Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.167Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.169Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.172Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.173Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.175Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.177Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.179Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.181Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.184Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.186Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.188Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.189Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.190Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.191Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.193Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.195Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.196Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.197Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.198Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.199Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.201Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.202Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.205Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.206Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.207Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.209Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.210Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.212Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.214Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.216Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.217Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.218Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.219Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.220Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.222Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.223Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.224Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.226Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:10:54.227Z'
 }
 {
   level: 'info',
   message: '243 countries inserted count',
-  timestamp: '2021-08-20T10:44:30.341Z'
+  timestamp: '2021-09-16T16:10:54.229Z'
 }
 {
   level: 'info',
-  message: '10 users inserted count',
-  timestamp: '2021-08-20T10:44:30.344Z'
+  message: '0 users inserted count',
+  timestamp: '2021-09-16T16:10:54.230Z'
 }
 {
   level: 'info',
-  message: '10 customers inserted count',
-  timestamp: '2021-08-20T10:44:30.346Z'
+  message: '0 customers inserted count',
+  timestamp: '2021-09-16T16:10:54.231Z'
 }
 {
   level: 'info',
-  message: '10 airlines inserted count',
-  timestamp: '2021-08-20T10:44:30.348Z'
+  message: '0 airlines inserted count',
+  timestamp: '2021-09-16T16:10:54.231Z'
 }
 {
   level: 'info',
-  message: '23 flights inserted count',
-  timestamp: '2021-08-20T10:44:30.350Z'
+  message: '0 flights inserted count',
+  timestamp: '2021-09-16T16:10:54.232Z'
 }
 {
   level: 'info',
-  message: '10 tickets inserted count',
-  timestamp: '2021-08-20T10:44:30.351Z'
+  message: '0 tickets inserted count',
+  timestamp: '2021-09-16T16:10:54.232Z'
+}
+{
+  level: 'error',
+  message: 'Error during random user axios get: ReferenceError: bcrypt is not defined',
+  timestamp: '2021-09-16T16:12:19.288Z'
 }
 {
   level: 'info',
-  message: 'Db pg_flights was cleared',
-  timestamp: '2021-08-24T15:19:04.278Z'
+  message: 'Db flights was cleared',
+  timestamp: '2021-09-16T16:12:19.328Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 0 insert: error: INSERT или UPDATE в таблице "airlines" нарушает ограничение внешнего ключа "fk_user_id"',
+  timestamp: '2021-09-16T16:12:19.377Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.382Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.384Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.387Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.389Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.390Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.392Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.393Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.396Z'
+}
+{
+  level: 'error',
+  message: 'Error during airline 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.397Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.398Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.399Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.400Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.401Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.402Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.403Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.404Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.405Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.406Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.407Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.408Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.410Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.412Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.413Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.414Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.415Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.416Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.417Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.418Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.419Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.420Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.421Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.422Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.423Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.424Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.425Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.427Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.428Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.430Z'
+}
+{
+  level: 'error',
+  message: 'Error during ticket 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:12:19.431Z'
 }
 {
   level: 'info',
   message: '243 countries inserted count',
-  timestamp: '2021-08-24T15:19:04.947Z'
+  timestamp: '2021-09-16T16:12:19.432Z'
 }
 {
   level: 'info',
-  message: '10 users inserted count',
-  timestamp: '2021-08-24T15:19:04.948Z'
+  message: '0 users inserted count',
+  timestamp: '2021-09-16T16:12:19.433Z'
 }
 {
   level: 'info',
-  message: '10 customers inserted count',
-  timestamp: '2021-08-24T15:19:04.949Z'
+  message: '0 customers inserted count',
+  timestamp: '2021-09-16T16:12:19.433Z'
 }
 {
   level: 'info',
-  message: '10 airlines inserted count',
-  timestamp: '2021-08-24T15:19:04.950Z'
+  message: '0 airlines inserted count',
+  timestamp: '2021-09-16T16:12:19.434Z'
 }
 {
   level: 'info',
-  message: '18 flights inserted count',
-  timestamp: '2021-08-24T15:19:04.950Z'
+  message: '0 flights inserted count',
+  timestamp: '2021-09-16T16:12:19.435Z'
 }
 {
   level: 'info',
-  message: '10 tickets inserted count',
-  timestamp: '2021-08-24T15:19:04.951Z'
+  message: '0 tickets inserted count',
+  timestamp: '2021-09-16T16:12:19.435Z'
 }
 {
   level: 'info',
-  message: 'Db pg_flights was cleared',
-  timestamp: '2021-08-24T15:19:38.044Z'
+  message: 'Db flights was cleared',
+  timestamp: '2021-09-16T16:14:35.310Z'
 }
 {
   level: 'error',
   message: 'Error during customer 6 insert: error: ошибка синтаксиса (примерное положение: "Abbé")',
-  timestamp: '2021-08-24T15:19:38.381Z'
+  timestamp: '2021-09-16T16:14:35.817Z'
 }
 {
   level: 'error',
   message: 'Error during user 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.384Z'
+  timestamp: '2021-09-16T16:14:35.823Z'
 }
 {
   level: 'error',
   message: 'Error during customer 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.386Z'
+  timestamp: '2021-09-16T16:14:35.825Z'
 }
 {
   level: 'error',
   message: 'Error during user 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.388Z'
+  timestamp: '2021-09-16T16:14:35.890Z'
 }
 {
   level: 'error',
-  message: 'Error during customer 8 insert: error: ошибка синтаксиса (примерное положение: "Connell")',
-  timestamp: '2021-08-24T15:19:38.390Z'
+  message: 'Error during customer 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:14:35.892Z'
 }
 {
   level: 'error',
   message: 'Error during user 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.391Z'
+  timestamp: '2021-09-16T16:14:35.896Z'
 }
 {
   level: 'error',
-  message: 'Error during customer 9 insert: error: ошибка синтаксиса (примерное положение: "Église")',
-  timestamp: '2021-08-24T15:19:38.392Z'
+  message: 'Error during customer 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:14:35.898Z'
 }
 {
   level: 'error',
   message: 'Error during airline 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.393Z'
+  timestamp: '2021-09-16T16:14:35.900Z'
 }
 {
   level: 'error',
   message: 'Error during airline 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.395Z'
+  timestamp: '2021-09-16T16:14:35.901Z'
 }
 {
   level: 'error',
   message: 'Error during airline 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.397Z'
+  timestamp: '2021-09-16T16:14:35.903Z'
 }
 {
   level: 'error',
   message: 'Error during airline 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.399Z'
+  timestamp: '2021-09-16T16:14:35.904Z'
 }
 {
   level: 'error',
   message: 'Error during airline 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.400Z'
+  timestamp: '2021-09-16T16:14:35.906Z'
 }
 {
   level: 'error',
   message: 'Error during airline 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.401Z'
+  timestamp: '2021-09-16T16:14:35.907Z'
 }
 {
   level: 'error',
   message: 'Error during airline 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.403Z'
+  timestamp: '2021-09-16T16:14:35.909Z'
 }
 {
   level: 'error',
   message: 'Error during airline 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.404Z'
+  timestamp: '2021-09-16T16:14:35.911Z'
 }
 {
   level: 'error',
   message: 'Error during airline 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.406Z'
+  timestamp: '2021-09-16T16:14:35.913Z'
 }
 {
   level: 'error',
   message: 'Error during airline 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.407Z'
+  timestamp: '2021-09-16T16:14:35.914Z'
 }
 {
   level: 'error',
   message: 'Error during flight 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.409Z'
+  timestamp: '2021-09-16T16:14:35.915Z'
 }
 {
   level: 'error',
   message: 'Error during flight 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.411Z'
+  timestamp: '2021-09-16T16:14:35.917Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:14:35.918Z'
 }
 {
   level: 'error',
   message: 'Error during flight 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.412Z'
+  timestamp: '2021-09-16T16:14:35.919Z'
 }
 {
   level: 'error',
   message: 'Error during flight 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.414Z'
+  timestamp: '2021-09-16T16:14:35.921Z'
 }
 {
   level: 'error',
   message: 'Error during flight 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.417Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.418Z'
+  timestamp: '2021-09-16T16:14:35.923Z'
 }
 {
   level: 'error',
   message: 'Error during flight 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.420Z'
+  timestamp: '2021-09-16T16:14:35.925Z'
 }
 {
   level: 'error',
   message: 'Error during flight 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.421Z'
+  timestamp: '2021-09-16T16:14:35.927Z'
 }
 {
   level: 'error',
   message: 'Error during flight 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.423Z'
+  timestamp: '2021-09-16T16:14:35.928Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:14:35.930Z'
 }
 {
   level: 'error',
   message: 'Error during flight 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.425Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.427Z'
+  timestamp: '2021-09-16T16:14:35.931Z'
 }
 {
   level: 'error',
   message: 'Error during flight 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.430Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.433Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.435Z'
+  timestamp: '2021-09-16T16:14:35.933Z'
 }
 {
   level: 'error',
   message: 'Error during flight 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.437Z'
+  timestamp: '2021-09-16T16:14:35.934Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:14:35.935Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:14:35.937Z'
 }
 {
   level: 'error',
   message: 'Error during flight 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.439Z'
+  timestamp: '2021-09-16T16:14:35.938Z'
 }
 {
   level: 'error',
   message: 'Error during flight 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.440Z'
+  timestamp: '2021-09-16T16:14:35.941Z'
 }
 {
   level: 'error',
   message: 'Error during flight 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.441Z'
+  timestamp: '2021-09-16T16:14:35.943Z'
 }
 {
   level: 'error',
   message: 'Error during ticket 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.442Z'
+  timestamp: '2021-09-16T16:14:35.944Z'
 }
 {
   level: 'error',
   message: 'Error during ticket 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.444Z'
+  timestamp: '2021-09-16T16:14:35.946Z'
 }
 {
   level: 'error',
   message: 'Error during ticket 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.446Z'
+  timestamp: '2021-09-16T16:14:35.947Z'
 }
 {
   level: 'error',
   message: 'Error during ticket 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.448Z'
+  timestamp: '2021-09-16T16:14:35.948Z'
 }
 {
   level: 'error',
   message: 'Error during ticket 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.451Z'
+  timestamp: '2021-09-16T16:14:35.949Z'
 }
 {
   level: 'error',
   message: 'Error during ticket 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.453Z'
+  timestamp: '2021-09-16T16:14:35.950Z'
 }
 {
   level: 'error',
   message: 'Error during ticket 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.455Z'
+  timestamp: '2021-09-16T16:14:35.951Z'
 }
 {
   level: 'error',
   message: 'Error during ticket 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.457Z'
+  timestamp: '2021-09-16T16:14:35.952Z'
 }
 {
   level: 'error',
   message: 'Error during ticket 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.458Z'
+  timestamp: '2021-09-16T16:14:35.953Z'
 }
 {
   level: 'error',
   message: 'Error during ticket 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:38.459Z'
+  timestamp: '2021-09-16T16:14:35.954Z'
 }
 {
   level: 'info',
   message: '243 countries inserted count',
-  timestamp: '2021-08-24T15:19:38.461Z'
+  timestamp: '2021-09-16T16:14:35.956Z'
 }
 {
   level: 'info',
   message: '7 users inserted count',
-  timestamp: '2021-08-24T15:19:38.462Z'
+  timestamp: '2021-09-16T16:14:35.957Z'
 }
 {
   level: 'info',
   message: '6 customers inserted count',
-  timestamp: '2021-08-24T15:19:38.462Z'
+  timestamp: '2021-09-16T16:14:35.958Z'
 }
 {
   level: 'info',
   message: '0 airlines inserted count',
-  timestamp: '2021-08-24T15:19:38.464Z'
+  timestamp: '2021-09-16T16:14:35.959Z'
 }
 {
   level: 'info',
   message: '0 flights inserted count',
-  timestamp: '2021-08-24T15:19:38.466Z'
+  timestamp: '2021-09-16T16:14:35.960Z'
 }
 {
   level: 'info',
   message: '0 tickets inserted count',
-  timestamp: '2021-08-24T15:19:38.467Z'
-}
-{
-  level: 'info',
-  message: 'Db pg_flights was cleared',
-  timestamp: '2021-08-24T15:19:51.110Z'
-}
-{
-  level: 'error',
-  message: 'Error during customer 4 insert: error: ошибка синтаксиса (примерное положение: "Abbé")',
-  timestamp: '2021-08-24T15:19:51.662Z'
-}
-{
-  level: 'error',
-  message: 'Error during user 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.665Z'
-}
-{
-  level: 'error',
-  message: 'Error during customer 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.667Z'
-}
-{
-  level: 'error',
-  message: 'Error during user 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.668Z'
-}
-{
-  level: 'error',
-  message: 'Error during customer 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.670Z'
-}
-{
-  level: 'error',
-  message: 'Error during user 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.672Z'
-}
-{
-  level: 'error',
-  message: 'Error during customer 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.674Z'
-}
-{
-  level: 'error',
-  message: 'Error during user 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.676Z'
-}
-{
-  level: 'error',
-  message: 'Error during customer 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.678Z'
-}
-{
-  level: 'error',
-  message: 'Error during user 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.681Z'
-}
-{
-  level: 'error',
-  message: 'Error during customer 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.683Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.685Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.686Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.688Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.689Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.690Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.692Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.694Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.697Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.703Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.704Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.706Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.707Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.709Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.712Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.715Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.717Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.719Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.720Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.721Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.722Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.724Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.725Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.726Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.728Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.730Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.731Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.733Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.734Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.736Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.738Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.739Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.741Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.743Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.747Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.749Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.750Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.752Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.753Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.754Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.755Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:19:51.757Z'
-}
-{
-  level: 'info',
-  message: '243 countries inserted count',
-  timestamp: '2021-08-24T15:19:51.760Z'
-}
-{
-  level: 'info',
-  message: '5 users inserted count',
-  timestamp: '2021-08-24T15:19:51.761Z'
-}
-{
-  level: 'info',
-  message: '4 customers inserted count',
-  timestamp: '2021-08-24T15:19:51.762Z'
-}
-{
-  level: 'info',
-  message: '0 airlines inserted count',
-  timestamp: '2021-08-24T15:19:51.763Z'
-}
-{
-  level: 'info',
-  message: '0 flights inserted count',
-  timestamp: '2021-08-24T15:19:51.764Z'
-}
-{
-  level: 'info',
-  message: '0 tickets inserted count',
-  timestamp: '2021-08-24T15:19:51.765Z'
-}
-{
-  level: 'info',
-  message: 'Db pg_flights was cleared',
-  timestamp: '2021-08-24T15:20:27.468Z'
-}
-{
-  level: 'error',
-  message: 'Error during customer 9 insert: error: ошибка синтаксиса (примерное положение: "Izieu")',
-  timestamp: '2021-08-24T15:20:27.867Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.872Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.874Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.875Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.877Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.879Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.880Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.883Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.885Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.887Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.888Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.891Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.894Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.896Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.899Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.901Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.902Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.904Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.905Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.909Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.912Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.914Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.916Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.918Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.920Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.921Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.922Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.924Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.926Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.927Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.928Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.930Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.936Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.940Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.943Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.953Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.955Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.957Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.959Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-08-24T15:20:27.961Z'
-}
-{
-  level: 'info',
-  message: '243 countries inserted count',
-  timestamp: '2021-08-24T15:20:27.964Z'
-}
-{
-  level: 'info',
-  message: '10 users inserted count',
-  timestamp: '2021-08-24T15:20:27.965Z'
-}
-{
-  level: 'info',
-  message: '9 customers inserted count',
-  timestamp: '2021-08-24T15:20:27.966Z'
-}
-{
-  level: 'info',
-  message: '0 airlines inserted count',
-  timestamp: '2021-08-24T15:20:27.966Z'
-}
-{
-  level: 'info',
-  message: '0 flights inserted count',
-  timestamp: '2021-08-24T15:20:27.968Z'
-}
-{
-  level: 'info',
-  message: '0 tickets inserted count',
-  timestamp: '2021-08-24T15:20:27.969Z'
-}
-{
-  level: 'info',
-  message: 'Db pg_flights was cleared',
-  timestamp: '2021-08-24T15:21:04.398Z'
-}
-{
-  level: 'info',
-  message: '243 countries inserted count',
-  timestamp: '2021-08-24T15:21:04.767Z'
-}
-{
-  level: 'info',
-  message: '10 users inserted count',
-  timestamp: '2021-08-24T15:21:04.769Z'
-}
-{
-  level: 'info',
-  message: '10 customers inserted count',
-  timestamp: '2021-08-24T15:21:04.770Z'
-}
-{
-  level: 'info',
-  message: '10 airlines inserted count',
-  timestamp: '2021-08-24T15:21:04.772Z'
-}
-{
-  level: 'info',
-  message: '15 flights inserted count',
-  timestamp: '2021-08-24T15:21:04.773Z'
-}
-{
-  level: 'info',
-  message: '10 tickets inserted count',
-  timestamp: '2021-08-24T15:21:04.774Z'
-}
-{
-  level: 'info',
-  message: 'Db pg_flights was cleared',
-  timestamp: '2021-08-24T15:22:18.047Z'
-}
-{
-  level: 'info',
-  message: '243 countries inserted count',
-  timestamp: '2021-08-24T15:22:18.512Z'
-}
-{
-  level: 'info',
-  message: '10 users inserted count',
-  timestamp: '2021-08-24T15:22:18.514Z'
-}
-{
-  level: 'info',
-  message: '10 customers inserted count',
-  timestamp: '2021-08-24T15:22:18.515Z'
-}
-{
-  level: 'info',
-  message: '10 airlines inserted count',
-  timestamp: '2021-08-24T15:22:18.516Z'
-}
-{
-  level: 'info',
-  message: '20 flights inserted count',
-  timestamp: '2021-08-24T15:22:18.517Z'
-}
-{
-  level: 'info',
-  message: '10 tickets inserted count',
-  timestamp: '2021-08-24T15:22:18.518Z'
-}
-{
-  level: 'info',
-  message: 'Db pg_flights was cleared',
-  timestamp: '2021-09-09T15:07:11.256Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Afghanistan insert: error: функция sp_insert_countries(unknown) не существует',
-  timestamp: '2021-09-09T15:07:11.267Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Åland Islands insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.273Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Albania insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.275Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Algeria insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.276Z'
-}
-{
-  level: 'error',
-  message: 'Error during country American Samoa insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.278Z'
-}
-{
-  level: 'error',
-  message: 'Error during country AndorrA insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.280Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Angola insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.282Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Anguilla insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.284Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Antarctica insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.285Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Antigua and Barbuda insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.287Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Argentina insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.288Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Armenia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.290Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Aruba insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.291Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Australia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.292Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Austria insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.294Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Azerbaijan insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.295Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Bahamas insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.297Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Bahrain insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.298Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Bangladesh insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.300Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Barbados insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.301Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Belarus insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.303Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Belgium insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.305Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Belize insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.307Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Benin insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.309Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Bermuda insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.312Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Bhutan insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.313Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Bolivia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.315Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Bosnia and Herzegovina insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.317Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Botswana insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.318Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Bouvet Island insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.320Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Brazil insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.321Z'
-}
-{
-  level: 'error',
-  message: 'Error during country British Indian Ocean Territory insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.322Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Brunei Darussalam insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.324Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Bulgaria insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.326Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Burkina Faso insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.328Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Burundi insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.329Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Cambodia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.331Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Cameroon insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.333Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Canada insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.334Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Cape Verde insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.335Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Cayman Islands insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.336Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Central African Republic insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.337Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Chad insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.338Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Chile insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.339Z'
-}
-{
-  level: 'error',
-  message: 'Error during country China insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.341Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Christmas Island insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.342Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Cocos (Keeling) Islands insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.343Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Colombia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.345Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Comoros insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.346Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Congo insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.349Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Congo, The Democratic Republic of the insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.352Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Cook Islands insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.353Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Costa Rica insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.355Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Cote D`Ivoire insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.356Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Croatia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.358Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Cuba insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.359Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Cyprus insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.360Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Czech Republic insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.361Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Denmark insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.362Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Djibouti insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.363Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Dominica insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.365Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Dominican Republic insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.367Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Ecuador insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.368Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Egypt insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.370Z'
-}
-{
-  level: 'error',
-  message: 'Error during country El Salvador insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.371Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Equatorial Guinea insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.372Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Eritrea insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.373Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Estonia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.374Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Ethiopia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.375Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Falkland Islands (Malvinas) insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.376Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Faroe Islands insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.377Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Fiji insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.378Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Finland insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.379Z'
-}
-{
-  level: 'error',
-  message: 'Error during country France insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.381Z'
-}
-{
-  level: 'error',
-  message: 'Error during country French Guiana insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.384Z'
-}
-{
-  level: 'error',
-  message: 'Error during country French Polynesia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.386Z'
-}
-{
-  level: 'error',
-  message: 'Error during country French Southern Territories insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.388Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Gabon insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.390Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Gambia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.392Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Georgia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.393Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Germany insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.395Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Ghana insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.397Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Gibraltar insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.400Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Greece insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.402Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Greenland insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.403Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Grenada insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.405Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Guadeloupe insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.407Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Guam insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.408Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Guatemala insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.409Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Guernsey insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.411Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Guinea insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.412Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Guinea-Bissau insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.413Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Guyana insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.415Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Haiti insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.417Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Heard Island and Mcdonald Islands insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.422Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Holy See (Vatican City State) insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.423Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Honduras insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.424Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Hong Kong insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.425Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Hungary insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.426Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Iceland insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.427Z'
-}
-{
-  level: 'error',
-  message: 'Error during country India insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.428Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Indonesia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.429Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Iran, Islamic Republic Of insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.430Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Iraq insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.432Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Ireland insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.433Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Isle of Man insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.435Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Israel insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.436Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Italy insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.437Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Jamaica insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.438Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Japan insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.439Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Jersey insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.440Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Jordan insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.442Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Kazakhstan insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.443Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Kenya insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.444Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Kiribati insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.445Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Korea, Democratic People`S Republic of insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.445Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Korea, Republic of insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.446Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Kuwait insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.448Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Kyrgyzstan insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.451Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Lao People`S Democratic Republic insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.452Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Latvia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.454Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Lebanon insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.456Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Lesotho insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.456Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Liberia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.457Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Libyan Arab Jamahiriya insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.458Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Liechtenstein insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.459Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Lithuania insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.460Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Luxembourg insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.461Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Macao insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.462Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Macedonia, The Former Yugoslav Republic of insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.463Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Madagascar insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.464Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Malawi insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.466Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Malaysia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.467Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Maldives insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.469Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Mali insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.470Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Malta insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.471Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Marshall Islands insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.472Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Martinique insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.474Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Mauritania insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.475Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Mauritius insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.476Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Mayotte insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.477Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Mexico insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.478Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Micronesia, Federated States of insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.479Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Moldova, Republic of insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.480Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Monaco insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.482Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Mongolia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.484Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Montserrat insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.485Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Morocco insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.488Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Mozambique insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.489Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Myanmar insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.489Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Namibia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.490Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Nauru insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.492Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Nepal insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.493Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Netherlands insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.493Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Netherlands Antilles insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.494Z'
-}
-{
-  level: 'error',
-  message: 'Error during country New Caledonia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.495Z'
-}
-{
-  level: 'error',
-  message: 'Error during country New Zealand insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.496Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Nicaragua insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.497Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Niger insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.500Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Nigeria insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.501Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Niue insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.502Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Norfolk Island insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.504Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Northern Mariana Islands insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.505Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Norway insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.506Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Oman insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.507Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Pakistan insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.508Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Palau insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.509Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Palestinian Territory, Occupied insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.510Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Panama insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.511Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Papua New Guinea insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.511Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Paraguay insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.512Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Peru insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.513Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Philippines insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.515Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Pitcairn insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.517Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Poland insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.518Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Portugal insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.520Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Puerto Rico insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.522Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Qatar insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.523Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Reunion insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.525Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Romania insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.526Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Russian Federation insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.527Z'
-}
-{
-  level: 'error',
-  message: 'Error during country RWANDA insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.528Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Saint Helena insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.529Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Saint Kitts and Nevis insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.530Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Saint Lucia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.532Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Saint Pierre and Miquelon insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.534Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Saint Vincent and the Grenadines insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.535Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Samoa insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.537Z'
-}
-{
-  level: 'error',
-  message: 'Error during country San Marino insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.538Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Sao Tome and Principe insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.539Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Saudi Arabia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.540Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Senegal insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.541Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Serbia and Montenegro insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.541Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Seychelles insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.542Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Sierra Leone insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.543Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Singapore insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.544Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Slovakia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.545Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Slovenia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.546Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Solomon Islands insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.546Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Somalia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.548Z'
-}
-{
-  level: 'error',
-  message: 'Error during country South Africa insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.550Z'
-}
-{
-  level: 'error',
-  message: 'Error during country South Georgia and the South Sandwich Islands insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.551Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Spain insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.553Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Sri Lanka insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.555Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Sudan insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.556Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Suriname insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.556Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Svalbard and Jan Mayen insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.557Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Swaziland insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.558Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Sweden insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.560Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Switzerland insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.561Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Syrian Arab Republic insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.562Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Taiwan, Province of China insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.563Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Tajikistan insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.564Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Tanzania, United Republic of insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.566Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Thailand insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.567Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Timor-Leste insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.569Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Togo insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.570Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Tokelau insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.571Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Tonga insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.573Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Trinidad and Tobago insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.574Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Tunisia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.575Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Turkey insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.576Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Turkmenistan insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.577Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Turks and Caicos Islands insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.578Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Tuvalu insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.579Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Uganda insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.580Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Ukraine insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.582Z'
-}
-{
-  level: 'error',
-  message: 'Error during country United Arab Emirates insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.584Z'
-}
-{
-  level: 'error',
-  message: 'Error during country United Kingdom insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.585Z'
-}
-{
-  level: 'error',
-  message: 'Error during country United States insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.587Z'
-}
-{
-  level: 'error',
-  message: 'Error during country United States Minor Outlying Islands insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.588Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Uruguay insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.589Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Uzbekistan insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.591Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Vanuatu insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.592Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Venezuela insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.593Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Viet Nam insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.594Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Virgin Islands, British insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.595Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Virgin Islands, U.S. insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.596Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Wallis and Futuna insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.597Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Western Sahara insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.599Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Yemen insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.601Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Zambia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.602Z'
-}
-{
-  level: 'error',
-  message: 'Error during country Zimbabwe insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.603Z'
-}
-{
-  level: 'error',
-  message: 'Error during user 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.659Z'
-}
-{
-  level: 'error',
-  message: 'Error during customer 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.664Z'
-}
-{
-  level: 'error',
-  message: 'Error during user 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.667Z'
-}
-{
-  level: 'error',
-  message: 'Error during customer 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.669Z'
-}
-{
-  level: 'error',
-  message: 'Error during user 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.672Z'
-}
-{
-  level: 'error',
-  message: 'Error during customer 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.674Z'
-}
-{
-  level: 'error',
-  message: 'Error during user 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.676Z'
-}
-{
-  level: 'error',
-  message: 'Error during customer 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.678Z'
-}
-{
-  level: 'error',
-  message: 'Error during user 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.679Z'
-}
-{
-  level: 'error',
-  message: 'Error during customer 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.681Z'
-}
-{
-  level: 'error',
-  message: 'Error during user 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.683Z'
-}
-{
-  level: 'error',
-  message: 'Error during customer 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.684Z'
-}
-{
-  level: 'error',
-  message: 'Error during user 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.686Z'
-}
-{
-  level: 'error',
-  message: 'Error during customer 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.687Z'
-}
-{
-  level: 'error',
-  message: 'Error during user 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.688Z'
-}
-{
-  level: 'error',
-  message: 'Error during customer 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.688Z'
-}
-{
-  level: 'error',
-  message: 'Error during user 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.690Z'
-}
-{
-  level: 'error',
-  message: 'Error during customer 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.690Z'
-}
-{
-  level: 'error',
-  message: 'Error during user 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.691Z'
-}
-{
-  level: 'error',
-  message: 'Error during customer 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.692Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.693Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.694Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.696Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.697Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.699Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.700Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.702Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.703Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.704Z'
-}
-{
-  level: 'error',
-  message: 'Error during airline 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.705Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.706Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.707Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.708Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.709Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.710Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.711Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.711Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.712Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.713Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.714Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.715Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.717Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.718Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.720Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.721Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.721Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.722Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.723Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.725Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.725Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.726Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.727Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.728Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.729Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.730Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.731Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.733Z'
-}
-{
-  level: 'error',
-  message: 'Error during ticket 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-09T15:07:11.734Z'
-}
-{
-  level: 'info',
-  message: '0 countries inserted count',
-  timestamp: '2021-09-09T15:07:11.736Z'
-}
-{
-  level: 'info',
-  message: '0 users inserted count',
-  timestamp: '2021-09-09T15:07:11.737Z'
-}
-{
-  level: 'info',
-  message: '0 customers inserted count',
-  timestamp: '2021-09-09T15:07:11.738Z'
-}
-{
-  level: 'info',
-  message: '0 airlines inserted count',
-  timestamp: '2021-09-09T15:07:11.739Z'
-}
-{
-  level: 'info',
-  message: '0 flights inserted count',
-  timestamp: '2021-09-09T15:07:11.739Z'
-}
-{
-  level: 'info',
-  message: '0 tickets inserted count',
-  timestamp: '2021-09-09T15:07:11.740Z'
+  timestamp: '2021-09-16T16:14:35.961Z'
 }
 {
   level: 'info',
   message: 'Db flights was cleared',
-  timestamp: '2021-09-15T14:48:23.753Z'
+  timestamp: '2021-09-16T16:15:24.757Z'
 }
 {
   level: 'info',
   message: '243 countries inserted count',
-  timestamp: '2021-09-15T14:48:24.223Z'
+  timestamp: '2021-09-16T16:15:25.093Z'
 }
 {
   level: 'info',
   message: '10 users inserted count',
-  timestamp: '2021-09-15T14:48:24.224Z'
+  timestamp: '2021-09-16T16:15:25.094Z'
 }
 {
   level: 'info',
   message: '10 customers inserted count',
-  timestamp: '2021-09-15T14:48:24.225Z'
+  timestamp: '2021-09-16T16:15:25.095Z'
 }
 {
   level: 'info',
   message: '10 airlines inserted count',
-  timestamp: '2021-09-15T14:48:24.226Z'
+  timestamp: '2021-09-16T16:15:25.095Z'
 }
 {
   level: 'info',
   message: '23 flights inserted count',
-  timestamp: '2021-09-15T14:48:24.227Z'
+  timestamp: '2021-09-16T16:15:25.096Z'
 }
 {
   level: 'info',
   message: '10 tickets inserted count',
-  timestamp: '2021-09-15T14:48:24.228Z'
+  timestamp: '2021-09-16T16:15:25.097Z'
 }
 {
   level: 'info',
   message: 'Db flights was cleared',
-  timestamp: '2021-09-16T11:01:57.782Z'
+  timestamp: '2021-09-16T16:22:58.924Z'
 }
 {
   level: 'error',
-  message: 'Error during user 0 insert: error: функция sp_insert_user(unknown, unknown, unknown) не существует',
-  timestamp: '2021-09-16T11:01:58.432Z'
+  message: 'Error during country Afghanistan insert: error: функция sp_insert_countries(unknown) не существует',
+  timestamp: '2021-09-16T16:22:58.934Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Åland Islands insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.940Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Albania insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.942Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Algeria insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.943Z'
+}
+{
+  level: 'error',
+  message: 'Error during country American Samoa insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.945Z'
+}
+{
+  level: 'error',
+  message: 'Error during country AndorrA insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.947Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Angola insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.950Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Anguilla insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.952Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Antarctica insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.954Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Antigua and Barbuda insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.956Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Argentina insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.958Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Armenia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.959Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Aruba insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.961Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Australia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.963Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Austria insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.964Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Azerbaijan insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.966Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Bahamas insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.967Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Bahrain insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.968Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Bangladesh insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.969Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Barbados insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.970Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Belarus insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.971Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Belgium insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.972Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Belize insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.974Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Benin insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.975Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Bermuda insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.976Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Bhutan insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.978Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Bolivia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.979Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Bosnia and Herzegovina insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.981Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Botswana insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.982Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Bouvet Island insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.983Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Brazil insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.985Z'
+}
+{
+  level: 'error',
+  message: 'Error during country British Indian Ocean Territory insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.987Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Brunei Darussalam insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.989Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Bulgaria insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.990Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Burkina Faso insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.991Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Burundi insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.992Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Cambodia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.993Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Cameroon insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.995Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Canada insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.996Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Cape Verde insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.998Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Cayman Islands insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:58.999Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Central African Republic insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.000Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Chad insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.001Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Chile insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.002Z'
+}
+{
+  level: 'error',
+  message: 'Error during country China insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.003Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Christmas Island insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.004Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Cocos (Keeling) Islands insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.006Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Colombia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.007Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Comoros insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.008Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Congo insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.009Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Congo, The Democratic Republic of the insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.011Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Cook Islands insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.013Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Costa Rica insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.014Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Cote D`Ivoire insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.015Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Croatia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.017Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Cuba insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.018Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Cyprus insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.019Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Czech Republic insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.021Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Denmark insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.022Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Djibouti insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.023Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Dominica insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.024Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Dominican Republic insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.025Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Ecuador insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.026Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Egypt insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.027Z'
+}
+{
+  level: 'error',
+  message: 'Error during country El Salvador insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.028Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Equatorial Guinea insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.029Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Eritrea insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.030Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Estonia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.032Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Ethiopia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.033Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Falkland Islands (Malvinas) insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.035Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Faroe Islands insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.036Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Fiji insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.037Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Finland insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.038Z'
+}
+{
+  level: 'error',
+  message: 'Error during country France insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.039Z'
+}
+{
+  level: 'error',
+  message: 'Error during country French Guiana insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.040Z'
+}
+{
+  level: 'error',
+  message: 'Error during country French Polynesia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.041Z'
+}
+{
+  level: 'error',
+  message: 'Error during country French Southern Territories insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.042Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Gabon insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.044Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Gambia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.046Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Georgia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.047Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Germany insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.049Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Ghana insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.050Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Gibraltar insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.051Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Greece insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.056Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Greenland insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.057Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Grenada insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.058Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Guadeloupe insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.059Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Guam insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.061Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Guatemala insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.062Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Guernsey insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.064Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Guinea insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.065Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Guinea-Bissau insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.066Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Guyana insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.067Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Haiti insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.069Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Heard Island and Mcdonald Islands insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.070Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Holy See (Vatican City State) insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.071Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Honduras insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.073Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Hong Kong insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.074Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Hungary insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.075Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Iceland insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.076Z'
+}
+{
+  level: 'error',
+  message: 'Error during country India insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.077Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Indonesia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.079Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Iran, Islamic Republic Of insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.080Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Iraq insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.081Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Ireland insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.082Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Isle of Man insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.083Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Israel insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.084Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Italy insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.085Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Jamaica insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.086Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Japan insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.087Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Jersey insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.095Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Jordan insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.102Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Kazakhstan insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.103Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Kenya insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.105Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Kiribati insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.106Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Korea, Democratic People`S Republic of insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.107Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Korea, Republic of insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.108Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Kuwait insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.109Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Kyrgyzstan insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.110Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Lao People`S Democratic Republic insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.113Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Latvia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.115Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Lebanon insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.117Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Lesotho insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.118Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Liberia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.119Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Libyan Arab Jamahiriya insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.120Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Liechtenstein insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.122Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Lithuania insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.123Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Luxembourg insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.127Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Macao insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.128Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Macedonia, The Former Yugoslav Republic of insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.130Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Madagascar insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.131Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Malawi insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.132Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Malaysia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.133Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Maldives insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.135Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Mali insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.135Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Malta insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.136Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Marshall Islands insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.137Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Martinique insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.138Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Mauritania insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.139Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Mauritius insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.140Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Mayotte insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.141Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Mexico insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.142Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Micronesia, Federated States of insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.143Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Moldova, Republic of insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.144Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Monaco insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.146Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Mongolia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.147Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Montserrat insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.149Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Morocco insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.150Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Mozambique insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.151Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Myanmar insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.152Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Namibia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.153Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Nauru insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.154Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Nepal insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.155Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Netherlands insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.156Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Netherlands Antilles insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.156Z'
+}
+{
+  level: 'error',
+  message: 'Error during country New Caledonia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.157Z'
+}
+{
+  level: 'error',
+  message: 'Error during country New Zealand insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.158Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Nicaragua insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.159Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Niger insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.160Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Nigeria insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.161Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Niue insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.163Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Norfolk Island insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.165Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Northern Mariana Islands insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.166Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Norway insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.167Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Oman insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.168Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Pakistan insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.169Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Palau insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.170Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Palestinian Territory, Occupied insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.171Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Panama insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.172Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Papua New Guinea insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.173Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Paraguay insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.174Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Peru insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.175Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Philippines insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.176Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Pitcairn insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.177Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Poland insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.179Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Portugal insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.180Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Puerto Rico insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.182Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Qatar insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.184Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Reunion insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.185Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Romania insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.186Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Russian Federation insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.187Z'
+}
+{
+  level: 'error',
+  message: 'Error during country RWANDA insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.188Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Saint Helena insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.189Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Saint Kitts and Nevis insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.190Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Saint Lucia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.191Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Saint Pierre and Miquelon insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.192Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Saint Vincent and the Grenadines insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.193Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Samoa insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.194Z'
+}
+{
+  level: 'error',
+  message: 'Error during country San Marino insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.195Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Sao Tome and Principe insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.197Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Saudi Arabia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.198Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Senegal insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.199Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Serbia and Montenegro insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.200Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Seychelles insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.201Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Sierra Leone insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.202Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Singapore insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.203Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Slovakia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.204Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Slovenia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.205Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Solomon Islands insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.206Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Somalia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.207Z'
+}
+{
+  level: 'error',
+  message: 'Error during country South Africa insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.208Z'
+}
+{
+  level: 'error',
+  message: 'Error during country South Georgia and the South Sandwich Islands insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.209Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Spain insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.210Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Sri Lanka insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.212Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Sudan insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.214Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Suriname insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.215Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Svalbard and Jan Mayen insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.216Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Swaziland insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.217Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Sweden insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.218Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Switzerland insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.219Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Syrian Arab Republic insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.221Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Taiwan, Province of China insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.222Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Tajikistan insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.223Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Tanzania, United Republic of insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.224Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Thailand insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.226Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Timor-Leste insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.227Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Togo insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.229Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Tokelau insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.230Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Tonga insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.232Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Trinidad and Tobago insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.233Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Tunisia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.234Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Turkey insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.236Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Turkmenistan insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.237Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Turks and Caicos Islands insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.238Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Tuvalu insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.239Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Uganda insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.241Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Ukraine insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.242Z'
+}
+{
+  level: 'error',
+  message: 'Error during country United Arab Emirates insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.243Z'
+}
+{
+  level: 'error',
+  message: 'Error during country United Kingdom insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.244Z'
+}
+{
+  level: 'error',
+  message: 'Error during country United States insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.247Z'
+}
+{
+  level: 'error',
+  message: 'Error during country United States Minor Outlying Islands insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.248Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Uruguay insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.249Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Uzbekistan insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.250Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Vanuatu insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.252Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Venezuela insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.254Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Viet Nam insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.258Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Virgin Islands, British insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.269Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Virgin Islands, U.S. insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.273Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Wallis and Futuna insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.274Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Western Sahara insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.275Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Yemen insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.276Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Zambia insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.278Z'
+}
+{
+  level: 'error',
+  message: 'Error during country Zimbabwe insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.280Z'
+}
+{
+  level: 'error',
+  message: 'Error during user 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.371Z'
 }
 {
   level: 'error',
   message: 'Error during customer 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.437Z'
+  timestamp: '2021-09-16T16:22:59.376Z'
 }
 {
   level: 'error',
   message: 'Error during user 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.439Z'
+  timestamp: '2021-09-16T16:22:59.379Z'
 }
 {
   level: 'error',
   message: 'Error during customer 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.441Z'
+  timestamp: '2021-09-16T16:22:59.382Z'
 }
 {
   level: 'error',
   message: 'Error during user 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.443Z'
+  timestamp: '2021-09-16T16:22:59.385Z'
 }
 {
   level: 'error',
   message: 'Error during customer 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.445Z'
+  timestamp: '2021-09-16T16:22:59.387Z'
 }
 {
   level: 'error',
   message: 'Error during user 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.446Z'
+  timestamp: '2021-09-16T16:22:59.390Z'
 }
 {
   level: 'error',
   message: 'Error during customer 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.448Z'
+  timestamp: '2021-09-16T16:22:59.393Z'
 }
 {
   level: 'error',
   message: 'Error during user 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.449Z'
+  timestamp: '2021-09-16T16:22:59.396Z'
 }
 {
   level: 'error',
   message: 'Error during customer 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.450Z'
+  timestamp: '2021-09-16T16:22:59.399Z'
 }
 {
   level: 'error',
   message: 'Error during user 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.451Z'
+  timestamp: '2021-09-16T16:22:59.402Z'
 }
 {
   level: 'error',
   message: 'Error during customer 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.452Z'
+  timestamp: '2021-09-16T16:22:59.404Z'
 }
 {
   level: 'error',
   message: 'Error during user 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.454Z'
+  timestamp: '2021-09-16T16:22:59.405Z'
 }
 {
   level: 'error',
   message: 'Error during customer 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.455Z'
+  timestamp: '2021-09-16T16:22:59.407Z'
 }
 {
   level: 'error',
   message: 'Error during user 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.457Z'
+  timestamp: '2021-09-16T16:22:59.408Z'
 }
 {
   level: 'error',
   message: 'Error during customer 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.459Z'
+  timestamp: '2021-09-16T16:22:59.409Z'
 }
 {
   level: 'error',
   message: 'Error during user 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.460Z'
+  timestamp: '2021-09-16T16:22:59.411Z'
 }
 {
   level: 'error',
   message: 'Error during customer 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.463Z'
+  timestamp: '2021-09-16T16:22:59.413Z'
 }
 {
   level: 'error',
   message: 'Error during user 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.465Z'
+  timestamp: '2021-09-16T16:22:59.415Z'
 }
 {
   level: 'error',
   message: 'Error during customer 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.467Z'
+  timestamp: '2021-09-16T16:22:59.416Z'
 }
 {
   level: 'error',
   message: 'Error during airline 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.469Z'
+  timestamp: '2021-09-16T16:22:59.417Z'
 }
 {
   level: 'error',
   message: 'Error during airline 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.471Z'
+  timestamp: '2021-09-16T16:22:59.418Z'
 }
 {
   level: 'error',
   message: 'Error during airline 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.473Z'
+  timestamp: '2021-09-16T16:22:59.420Z'
 }
 {
   level: 'error',
   message: 'Error during airline 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.475Z'
+  timestamp: '2021-09-16T16:22:59.421Z'
 }
 {
   level: 'error',
   message: 'Error during airline 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.476Z'
+  timestamp: '2021-09-16T16:22:59.422Z'
 }
 {
   level: 'error',
   message: 'Error during airline 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.478Z'
+  timestamp: '2021-09-16T16:22:59.423Z'
 }
 {
   level: 'error',
   message: 'Error during airline 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.480Z'
+  timestamp: '2021-09-16T16:22:59.424Z'
 }
 {
   level: 'error',
   message: 'Error during airline 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.482Z'
+  timestamp: '2021-09-16T16:22:59.425Z'
 }
 {
   level: 'error',
   message: 'Error during airline 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.484Z'
+  timestamp: '2021-09-16T16:22:59.426Z'
 }
 {
   level: 'error',
   message: 'Error during airline 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.487Z'
+  timestamp: '2021-09-16T16:22:59.428Z'
 }
 {
   level: 'error',
   message: 'Error during flight 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.488Z'
+  timestamp: '2021-09-16T16:22:59.430Z'
 }
 {
   level: 'error',
   message: 'Error during flight 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.490Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.492Z'
+  timestamp: '2021-09-16T16:22:59.432Z'
 }
 {
   level: 'error',
   message: 'Error during flight 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.494Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.496Z'
+  timestamp: '2021-09-16T16:22:59.433Z'
 }
 {
   level: 'error',
   message: 'Error during flight 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.497Z'
+  timestamp: '2021-09-16T16:22:59.434Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.435Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.436Z'
 }
 {
   level: 'error',
   message: 'Error during flight 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.500Z'
+  timestamp: '2021-09-16T16:22:59.436Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.437Z'
 }
 {
   level: 'error',
   message: 'Error during flight 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.502Z'
+  timestamp: '2021-09-16T16:22:59.438Z'
 }
 {
   level: 'error',
   message: 'Error during flight 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.503Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.505Z'
-}
-{
-  level: 'error',
-  message: 'Error during flight 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.506Z'
+  timestamp: '2021-09-16T16:22:59.439Z'
 }
 {
   level: 'error',
   message: 'Error during flight 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.507Z'
+  timestamp: '2021-09-16T16:22:59.440Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.441Z'
 }
 {
   level: 'error',
   message: 'Error during flight 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.508Z'
+  timestamp: '2021-09-16T16:22:59.442Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.442Z'
 }
 {
   level: 'error',
   message: 'Error during flight 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.509Z'
+  timestamp: '2021-09-16T16:22:59.443Z'
+}
+{
+  level: 'error',
+  message: 'Error during flight 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
+  timestamp: '2021-09-16T16:22:59.445Z'
 }
 {
   level: 'error',
   message: 'Error during flight 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.510Z'
+  timestamp: '2021-09-16T16:22:59.446Z'
 }
 {
   level: 'error',
   message: 'Error during ticket 0 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.512Z'
+  timestamp: '2021-09-16T16:22:59.447Z'
 }
 {
   level: 'error',
   message: 'Error during ticket 1 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.513Z'
+  timestamp: '2021-09-16T16:22:59.448Z'
 }
 {
   level: 'error',
   message: 'Error during ticket 2 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.514Z'
+  timestamp: '2021-09-16T16:22:59.449Z'
 }
 {
   level: 'error',
   message: 'Error during ticket 3 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.515Z'
+  timestamp: '2021-09-16T16:22:59.450Z'
 }
 {
   level: 'error',
   message: 'Error during ticket 4 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.517Z'
+  timestamp: '2021-09-16T16:22:59.451Z'
 }
 {
   level: 'error',
   message: 'Error during ticket 5 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.519Z'
+  timestamp: '2021-09-16T16:22:59.452Z'
 }
 {
   level: 'error',
   message: 'Error during ticket 6 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.520Z'
+  timestamp: '2021-09-16T16:22:59.453Z'
 }
 {
   level: 'error',
   message: 'Error during ticket 7 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.521Z'
+  timestamp: '2021-09-16T16:22:59.454Z'
 }
 {
   level: 'error',
   message: 'Error during ticket 8 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.522Z'
+  timestamp: '2021-09-16T16:22:59.455Z'
 }
 {
   level: 'error',
   message: 'Error during ticket 9 insert: error: текущая транзакция прервана, команды до конца блока транзакции игнорируются',
-  timestamp: '2021-09-16T11:01:58.525Z'
+  timestamp: '2021-09-16T16:22:59.456Z'
 }
 {
   level: 'info',
-  message: '243 countries inserted count',
-  timestamp: '2021-09-16T11:01:58.527Z'
+  message: '0 countries inserted count',
+  timestamp: '2021-09-16T16:22:59.457Z'
 }
 {
   level: 'info',
   message: '0 users inserted count',
-  timestamp: '2021-09-16T11:01:58.528Z'
+  timestamp: '2021-09-16T16:22:59.458Z'
 }
 {
   level: 'info',
   message: '0 customers inserted count',
-  timestamp: '2021-09-16T11:01:58.529Z'
+  timestamp: '2021-09-16T16:22:59.458Z'
 }
 {
   level: 'info',
   message: '0 airlines inserted count',
-  timestamp: '2021-09-16T11:01:58.530Z'
+  timestamp: '2021-09-16T16:22:59.459Z'
 }
 {
   level: 'info',
   message: '0 flights inserted count',
-  timestamp: '2021-09-16T11:01:58.530Z'
+  timestamp: '2021-09-16T16:22:59.459Z'
 }
 {
   level: 'info',
   message: '0 tickets inserted count',
-  timestamp: '2021-09-16T11:01:58.531Z'
+  timestamp: '2021-09-16T16:22:59.460Z'
 }
 {
   level: 'info',
   message: 'Db flights was cleared',
-  timestamp: '2021-09-16T11:15:45.401Z'
+  timestamp: '2021-09-16T16:23:05.009Z'
 }
 {
   level: 'info',
   message: '243 countries inserted count',
-  timestamp: '2021-09-16T11:15:45.837Z'
+  timestamp: '2021-09-16T16:23:05.357Z'
 }
 {
   level: 'info',
   message: '10 users inserted count',
-  timestamp: '2021-09-16T11:15:45.838Z'
+  timestamp: '2021-09-16T16:23:05.358Z'
 }
 {
   level: 'info',
   message: '10 customers inserted count',
-  timestamp: '2021-09-16T11:15:45.840Z'
+  timestamp: '2021-09-16T16:23:05.360Z'
 }
 {
   level: 'info',
   message: '10 airlines inserted count',
-  timestamp: '2021-09-16T11:15:45.841Z'
+  timestamp: '2021-09-16T16:23:05.362Z'
 }
 {
   level: 'info',
-  message: '19 flights inserted count',
-  timestamp: '2021-09-16T11:15:45.843Z'
+  message: '16 flights inserted count',
+  timestamp: '2021-09-16T16:23:05.363Z'
 }
 {
   level: 'info',
   message: '10 tickets inserted count',
-  timestamp: '2021-09-16T11:15:45.844Z'
+  timestamp: '2021-09-16T16:23:05.364Z'
+}
+{
+  level: 'info',
+  message: 'Db flights was cleared',
+  timestamp: '2021-09-16T16:40:55.187Z'
+}
+{
+  level: 'info',
+  message: '243 countries inserted count',
+  timestamp: '2021-09-16T16:40:55.716Z'
+}
+{
+  level: 'info',
+  message: '10 users inserted count',
+  timestamp: '2021-09-16T16:40:55.717Z'
+}
+{
+  level: 'info',
+  message: '10 customers inserted count',
+  timestamp: '2021-09-16T16:40:55.718Z'
+}
+{
+  level: 'info',
+  message: '10 airlines inserted count',
+  timestamp: '2021-09-16T16:40:55.720Z'
+}
+{
+  level: 'info',
+  message: '19 flights inserted count',
+  timestamp: '2021-09-16T16:40:55.721Z'
+}
+{
+  level: 'info',
+  message: '10 tickets inserted count',
+  timestamp: '2021-09-16T16:40:55.722Z'
 }

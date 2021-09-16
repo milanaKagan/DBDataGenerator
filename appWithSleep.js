@@ -1,6 +1,7 @@
 
 const { createLogger, format, transports } = require('winston');
 const { combine, timestamp, label, prettyPrint } = format;
+const bcrypt = require('bcrypt');
 const roles = ['admin','airline','customer']
 const config = require('config')
 const fs = require("fs")
@@ -75,13 +76,14 @@ const insertCountries = async (client) => {
 }
 const insertUsersAndCustomers = async (client) => {
     try {
+        var salt = await bcrypt.genSalt();
+        var password = bcrypt.hash('123456', salt);
         string_from_file = fs.readFileSync('data\\creditCards.json', { encoding: 'utf8', flag: 'r' });
         let data = JSON.parse(string_from_file)
         const response = await axios.get(`https://randomuser.me/api?results=${scale.customers}`)
         for (let i = 0; i < scale.customers; i++) {
-
             await client.query(`select * from sp_insert_user('${response.data.results[i].name.first + makeid(3)}',
-             '${response.data.results[i].name.first}_password','${response.data.results[i].email}',
+             '${password}','${response.data.results[i].email}',
              '${roles[Math.floor(Math.random() * 3)]}')`, (err, res) => {
                 if (err)
                     logger_repo.log({
