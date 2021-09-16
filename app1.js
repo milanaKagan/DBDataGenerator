@@ -11,6 +11,7 @@ const logger_repo = require('./logger')
 // config
 const db_conn = config.get('db')
 const scale = config.get('scale')
+const roles = ['admin','airline','customer']
 let countriesCount = 0;
 let usersCount = 0;
 let customersCount = 0;
@@ -81,7 +82,7 @@ const insertUsersAndCustomers = async (client) => {
         for (let i = 0; i < scale.customers; i++) {
 
             await client.query(`select * from sp_insert_user('${response.data.results[i].name.first + makeid(3)}',
-             '${response.data.results[i].name.first}_password','${response.data.results[i].email}')`, (err, res) => {
+             '${response.data.results[i].name.first}_password','${response.data.results[i].email}','${roles[Math.floor(Math.random() * 3)]}')`, (err, res) => {
                 if (err)
                     logger_repo.log({
                         level: 'error',

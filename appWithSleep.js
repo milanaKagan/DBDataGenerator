@@ -1,7 +1,7 @@
 
 const { createLogger, format, transports } = require('winston');
 const { combine, timestamp, label, prettyPrint } = format;
-
+const roles = ['admin','airline','customer']
 const config = require('config')
 const fs = require("fs")
 const Pool = require('pg').Pool
@@ -81,7 +81,8 @@ const insertUsersAndCustomers = async (client) => {
         for (let i = 0; i < scale.customers; i++) {
 
             await client.query(`select * from sp_insert_user('${response.data.results[i].name.first + makeid(3)}',
-             '${response.data.results[i].name.first}_password','${response.data.results[i].email}')`, (err, res) => {
+             '${response.data.results[i].name.first}_password','${response.data.results[i].email}',
+             '${roles[Math.floor(Math.random() * 3)]}')`, (err, res) => {
                 if (err)
                     logger_repo.log({
                         level: 'error',
